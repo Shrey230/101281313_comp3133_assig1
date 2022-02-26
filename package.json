@@ -1,0 +1,33 @@
+{
+  "name": "101281313_comp3133_assig1",
+  "version": "1.0.0",
+  "description": "Assignment 02, grapql implimentation",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shrey230/101281313_comp3133_assig1.git"
+  },
+  "keywords": [],
+  "author": "Shrey Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shrey230/101281313_comp3133_assig1/issues"
+  },
+  "homepage": "https://github.com/Shrey230/101281313_comp3133_assig1#readme",
+  "dependencies": {
+    "apollo-server-errors": "^3.3.1",
+    "apollo-server-express": "^3.6.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "graphql": "^16.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.3",
+    "nodemon": "^2.0.15"
+  }
+}
